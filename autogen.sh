@@ -1,4 +1,8 @@
-#!/usr/bin/env bash
+#!/bin/bash
+#  usr/bin/env bash
+#
+# travis dont like the above with env so we regress
+
 
 
 if test x"${AUTORECONF}" = x""; then
