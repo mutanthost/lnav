@@ -1,7 +1,4 @@
-#!/bin/bash
-#  usr/bin/env bash
-#
-# travis dont like the above with env so we regress
+#!/usr/bin/bash
 
 
 
