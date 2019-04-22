@@ -33,7 +33,7 @@ addons:
     project:
       name: tstack/lnav
       description: Your project description here
-    notification_email: timothyshanestack@gmail.com
+    notification_email: devnull@gmail.com
     build_command_prepend: ./autogen.sh && ./configure
     build_command: make
     branch_pattern: coverity_scan
