@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/usr/bin/env bash
 
 
 if test x"${AUTORECONF}" = x""; then
